@@ -15,3 +15,4 @@ My Certificate URL is *https://www.udemy.com/certificate/UC-3NCHVRX9*
 **Training Model**
 
 ![alt_text](https://github.com/TDeepanshPandey/Autoencoders_Movie_Lens_Dataset/blob/master/Training.JPG)
+.
